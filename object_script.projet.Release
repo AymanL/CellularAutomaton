@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\autocell.o
+./release\automaton.o
+./release\autocell2d.o
+./release\simulator.o
+./release\autofeu.o
+./release\xml_dom.o
+./release\interface.o
+./release\state.o
+./release\moc_autocell.o
+./release\moc_autocell2d.o
+./release\moc_autofeu.o
+./release\moc_interface.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\autocell.o
+./debug\automaton.o
+./debug\autocell2d.o
+./debug\simulator.o
+./debug\autofeu.o
+./debug\xml_dom.o
+./debug\interface.o
+./debug\state.o
+./debug\moc_autocell.o
+./debug\moc_autocell2d.o
+./debug\moc_autofeu.o
+./debug\moc_interface.o
+);
