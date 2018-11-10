@@ -1,0 +1,12 @@
+<!DOCTYPE mon_xml_JeuDeLaVie>
+<gameLifeInstance>
+ <name>gameLifeInstance</name>
+ <type>JeuVie</type>
+ <Min_Viv_Rester>2</Min_Viv_Rester>
+ <Max_Viv_Rester>3</Max_Viv_Rester>
+ <Min_Viv_Renaitre>3</Min_Viv_Renaitre>
+ <Max_Viv_Renaitre>3</Max_Viv_Renaitre>
+ <Nbr_Ligne>25</Nbr_Ligne>
+ <Nbr_Colonne>50</Nbr_Colonne>
+ <step>4252017631</step>
+</gameLifeInstance>

@@ -1,0 +1,9 @@
+<!DOCTYPE mon_xml_1d>
+<AutoCell_1D>
+ <name>AutoCell</name>
+ <type>lengthh1</type>
+ <numero>0</numero>
+ <Nbr_Colonne>25</Nbr_Colonne>
+ <nbr_etat>25</nbr_etat>
+ <step>7</step>
+</AutoCell_1D>

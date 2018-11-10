@@ -1,0 +1,8 @@
+<!DOCTYPE mon_xml>
+<AutoFire>
+ <name>AutoFire</name>
+ <type>forestFireInstance</type>
+ <Nbr_Ligne>50</Nbr_Ligne>
+ <Nbr_Colonne>50</Nbr_Colonne>
+ <step>7</step>
+</AutoFire>
