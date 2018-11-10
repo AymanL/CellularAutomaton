@@ -72,7 +72,7 @@ forestFire::forestFire(QWidget* parent): QWidget(parent){
     start->setSelectionMode(QAbstractItemView::NoSelection);
 
     changeSize();
-    change=new QPushButton("Modifier les dimensions");
+    change=new QPushButton("Change dimensions");
     connect(change,SIGNAL(clicked()),this,SLOT(changeSize()));
 
     connect(start,SIGNAL(doubleClicked(QModelIndex)),this, SLOT(cellActivation(QModelIndex)));

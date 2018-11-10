@@ -34,7 +34,7 @@ AutoCell::AutoCell(QWidget* parent): QWidget(parent), rank(0), rule(0), length(2
     numl= new QLabel("Rule");
 
     //Label for the step spinbox
-    stepl = new QLabel("Vitesse");
+    stepl = new QLabel("Speed");
 
     numc->addWidget(numl); numc->addWidget(num);
     numc->addWidget(stepl); numc->addWidget(step);

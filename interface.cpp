@@ -41,11 +41,11 @@ void MainWindow::buildHome(){
     connect(buttonAuto1D, SIGNAL(clicked()), this, SLOT(openDialogue1()));
 
     //button to go to Game of Life automaton page
-    buttonAutoLife = new QPushButton("Automaton jeu de la vie");
+    buttonAutoLife = new QPushButton("Game of life Automaton");
     connect(buttonAutoLife, SIGNAL(clicked()), this, SLOT(openDialogue2()));
 
     //button to go to Forest Fire automaton page
-    buttonAutoFire = new QPushButton("Automaton fire de forêt");
+    buttonAutoFire = new QPushButton("Forest Fire");
     connect(buttonAutoFire, SIGNAL(clicked()), this, SLOT(openDialogue3()));
 
     //layout to horizontally display buttons
